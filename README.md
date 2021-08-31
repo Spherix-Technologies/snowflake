@@ -1,4 +1,7 @@
-# @SynapseTech/snowflake
+# @astranger1k/snowflake
+[![Publish to NPM](https://github.com/Spherix-Technologies/snowflake/actions/workflows/main.yml/badge.svg)](https://github.com/Spherix-Technologies/snowflake/actions/workflows/main.yml)
+
+
 A pure NodeJS implementation of the Twitter Snowflake
 algorithm. Makes use of modern NodeJS `BigInt`. Most
 of the code is based off of [leodutra/simpleflakes](https://github.com/leodutra/simpleflakes),
@@ -28,7 +31,7 @@ the original code.
 
 ```js
 // Import the module
-const snowflake = require('@synapsetech/snowflake');
+const snowflake = require('@astranger1k/snowflake');
 
 // Generate a new snowflake
 const flake = snowflake();
