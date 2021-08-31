@@ -1,11 +1,11 @@
 {
-  "name": "@synapsetech/snowflake",
-  "version": "1.0.0",
+  "name": "@astranger1k/snowflake",
+  "version": "1.0.2",
   "main": "src/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/SynapseTech/snowflake"
+    "url": "git://github.com/Spherix-Technologies/snowflake"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
